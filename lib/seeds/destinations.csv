@@ -1,0 +1,501 @@
+city,rating,average_temp,type
+Gierłoż,3,92,beach
+Gvardeysk,4,22,city
+Shangtang,2,79,city
+Undurkhaan,3,75,city
+Zhicheng,5,29,city
+Kangar,1,43,city
+Daduo,1,84,city
+Xiongshan,3,30,city
+Youfang,5,75,beach
+Xijiao,3,57,city
+Shangtianba,4,35,rural
+Almirante Tamandaré,4,64,city
+Tapiramutá,4,94,rural
+Velizh,1,62,rural
+Teuva,4,81,rural
+Altanbulag,3,92,city
+Manolo Fortich,4,87,city
+Piła,2,91,city
+Dadianzi,2,22,rural
+Jiuchenggong,5,23,beach
+Gijon,4,35,rural
+Campo Alegre,4,72,beach
+Oof,1,15,rural
+Nezvěstice,5,44,rural
+Al Fashn,5,72,rural
+Naudero,3,42,city
+Xingxi,1,61,rural
+Nowosielce-Gniewosz,5,56,beach
+Lazaro Cardenas,4,65,rural
+Xianzong,3,46,rural
+Berëzovka,4,19,city
+Managua,3,84,rural
+Olmos,3,43,city
+Karasuk,5,35,city
+Tonjongsari,4,48,beach
+Kramators’k,1,84,city
+Besançon,1,61,beach
+Kanbula,4,91,beach
+Namangan,4,63,rural
+Pahārpur,5,94,city
+Ha’erlong,4,31,city
+Shumikha,4,70,city
+Sankanan,5,74,beach
+Johor Bahru,4,53,beach
+Boulaide,1,20,city
+Eskilstuna,4,61,city
+Rueil-Malmaison,4,63,beach
+Krzeszów,2,59,city
+Huamali,1,60,rural
+Las Vegas,1,88,rural
+Solingen,4,35,rural
+Tairan Camp,3,69,city
+Arīḩā,4,66,beach
+Ejido,2,46,beach
+Cayambe,1,68,rural
+Tarłów,3,21,rural
+Donja Dubica,4,60,rural
+Praia de Mira,2,70,city
+Klagenfurt am Wörthersee,5,15,beach
+Ribeiro,2,16,beach
+Klatakan,1,94,rural
+Kokembang,1,75,rural
+Kandete,2,57,city
+Kadujajar,3,93,beach
+Flen,4,45,city
+Kohtla-Järve,5,27,city
+Dayan,1,44,city
+Huzhen,2,33,city
+Atães,2,64,city
+Frankfurt am Main,1,16,city
+Saltsjö-Boo,2,20,city
+Zhouzai,3,15,city
+Pesochnoye,2,61,beach
+Yangcun,1,59,beach
+Shahbā,3,69,rural
+Álli Meriá,3,32,city
+Vlissingen,3,39,rural
+Clermont-Ferrand,4,50,city
+Beigou,4,93,beach
+Polo,3,71,city
+Heicheng,5,25,rural
+Zhenlai,2,26,rural
+Karajeun,4,62,city
+Saripin,4,89,beach
+Anfusi,2,37,beach
+Hưng Nguyên,4,39,beach
+Lewin Kłodzki,3,69,rural
+Juzhen,4,38,city
+Nadezhda,5,51,rural
+Brest,2,50,rural
+Szamotuły,2,74,beach
+Padangan,1,84,city
+Longmenfan,4,74,beach
+Quimper,3,26,beach
+Stari Grad,5,47,rural
+Laotai,5,57,beach
+Mégara,1,75,beach
+Banjar Swastika,1,78,rural
+Port-aux-Français,3,22,rural
+Poitiers,4,84,rural
+Chambly,3,16,rural
+Pasiripis,1,72,beach
+Sosnovyy Bor,5,24,beach
+Talisay,5,88,beach
+Zaragoza,5,65,rural
+Borzytuchom,4,39,city
+Cajamarca,3,59,beach
+Batgrām,4,26,beach
+Kuala Terengganu,5,51,city
+Colendra,3,72,rural
+Cempa,1,19,rural
+Itapira,5,38,city
+Zlonice,5,57,beach
+Huanipaca,4,43,rural
+Jacksonville,4,34,rural
+Ansan-si,3,17,rural
+Monterrey,2,18,beach
+Pniv,1,48,beach
+Amadeo,2,18,rural
+Christchurch,4,60,city
+Quimper,5,23,city
+Eenhana,5,79,beach
+Zhencheng,1,84,city
+Sungaipuntik,2,27,beach
+Neuquén,2,43,city
+Dawa-Dawa,4,19,beach
+Onitsha,3,56,rural
+Nkwerre,2,53,city
+Segong,5,53,rural
+Leon Postigo,5,33,beach
+Lydenburg,4,87,beach
+Lafayette,2,54,city
+Mtsamdou,1,71,beach
+Stockholm,2,28,beach
+Ramiriquí,5,68,rural
+Leonárisso,2,61,beach
+Lille,3,44,rural
+Erdenet,1,41,rural
+Norrtälje,1,25,beach
+Cosmópolis,1,45,city
+Celendín,3,60,city
+Baiyin,2,45,beach
+Sochaux,1,60,rural
+Gaphatshwe,4,53,beach
+Bidyā,3,57,beach
+Pule,2,76,city
+Arlington,5,39,city
+Warmare,1,90,city
+Galatás,1,21,beach
+Aigínio,2,46,beach
+Choloma,4,91,beach
+Bełsznica,5,49,beach
+Sofo-Birnin-Gwari,4,70,city
+Cipinang,2,15,city
+Centurion,2,52,rural
+Quinua,3,69,beach
+Knivsta,4,25,rural
+Tân Châu,5,84,beach
+Zhenjiang,3,25,rural
+Culianin,1,38,city
+Jalingo,1,37,city
+Helsingborg,3,37,city
+San Isidro,2,39,city
+Raszków,2,77,rural
+Diang,3,43,city
+Shumyachi,4,72,beach
+Guachetá,3,90,beach
+Caramuca,2,38,city
+Xom Tan Long,1,72,rural
+Tiro,2,50,rural
+Voi,2,83,rural
+Araçatuba,5,31,rural
+Ulyanovsk,4,91,rural
+Macun,2,70,city
+Baie-D'Urfé,2,94,city
+Mainit,1,88,beach
+Dashi,1,24,rural
+Santa Catalina,3,34,city
+Xinan,4,27,city
+Güira de Melena,4,40,city
+El Coco,3,93,rural
+Napierville,5,23,city
+Kebonagung,1,17,city
+Xinzhai,3,32,beach
+Wa’erma,4,93,rural
+Famatina,2,61,rural
+Garang,3,47,rural
+Đắk Mil,4,45,city
+Neftçala,5,68,rural
+Horta,4,75,beach
+Dongle,4,72,rural
+Ciro Redondo,1,51,rural
+Tolú,5,53,beach
+Xinmatou,2,90,city
+Rochester,3,86,city
+Xiamazhuang,3,85,rural
+Detik Satu,2,53,rural
+Stockton,1,47,rural
+Toulouse,2,40,rural
+Moulay Abdallah,3,83,beach
+Zargarān,5,94,beach
+Seredka,2,93,rural
+Phú Vang,2,44,rural
+Oncativo,1,42,rural
+Orsk,4,86,city
+Kuidou,3,58,beach
+Água Levada,3,26,rural
+Picos,3,90,rural
+Ziyang Chengguanzhen,3,93,rural
+Sovetsk,4,48,beach
+Bodø,4,46,beach
+Xike,4,74,beach
+Banjar Jabejero,4,81,city
+Wanzhai,4,78,beach
+Ryazan’,4,46,rural
+Guilmaro,5,85,city
+Bahāwalpur,1,36,beach
+Dallas,3,38,city
+Duri,2,83,beach
+Pentecoste,1,75,beach
+Wanglu Kulon,4,24,beach
+Piškorevci,2,67,beach
+Wissembourg,3,30,beach
+Mingyuedian,4,78,rural
+Mangulile,1,23,city
+Kamaris,2,51,city
+San Carlos,3,17,rural
+Javhlant,2,52,city
+Oslo,2,73,beach
+Ncue,3,81,rural
+Herrera,2,81,beach
+Xiaojia,1,58,beach
+Pengulu,4,75,city
+Ninghai,1,51,rural
+Dalar,4,84,beach
+Angers,5,15,city
+Henglan,4,64,city
+Polonnaruwa,4,80,rural
+Changsha,1,60,beach
+Velykyi Bereznyi,4,54,beach
+Brades,5,52,beach
+Malangabang,5,77,beach
+Sali,2,57,rural
+Vlycháda,3,32,rural
+Spring,5,61,rural
+San,3,60,city
+Aranyaprathet,4,55,city
+Stamford,2,61,city
+Argelia,2,91,beach
+Sinarwangi,5,83,beach
+Yima,4,19,beach
+Quintong,5,93,beach
+Richmond,1,40,beach
+Yelets,2,87,beach
+Oslo,4,32,beach
+Osapsio,1,73,beach
+Tsimkavichy,2,45,beach
+Lordegān,1,17,rural
+Lukulu,2,22,city
+Ukata,4,59,city
+Opařany,5,54,beach
+Bečmen,4,45,beach
+Lianghu,2,75,city
+Xiali,1,75,rural
+Ramos,2,70,beach
+Alcanena,2,81,city
+Lago,1,53,beach
+Bamusso,4,55,rural
+Sarlat-la-Canéda,1,21,beach
+Compiègne,5,80,beach
+San Pedro de Atacama,1,51,city
+Węgorzyno,5,63,city
+Ponte,3,89,rural
+Siding,3,75,city
+Yangchun,4,26,city
+Adare,4,72,beach
+Kunmi Erdi,1,66,beach
+Pervomayskaya,5,28,rural
+Campo,5,27,rural
+Lyon,3,38,beach
+Kathu,2,39,beach
+Ampelgading,3,40,rural
+Yerevan,3,31,city
+Ketian,5,18,city
+Mentoro Wetan,5,85,rural
+Yujia,4,77,rural
+Tây Hồ,3,80,city
+Šavnik,3,62,rural
+Malangabang,2,95,city
+Ialibu,5,39,city
+Royan,5,25,city
+Trzebunia,5,47,beach
+Jiangyan,5,59,rural
+Jardín América,1,22,city
+Ziketan,4,36,beach
+Markaz al Marīr,4,71,rural
+Kota Bharu,4,37,rural
+Nīkshahr,3,78,rural
+Níkaia,3,88,beach
+Ust’-Labinsk,5,74,city
+Al Misrākh,4,71,rural
+Dorval,3,21,city
+Vienne,1,62,beach
+Lincheng,2,55,city
+Lianhe,1,57,rural
+Angers,1,25,city
+Kristinehamn,1,47,city
+Granada,1,21,rural
+Qingxi,4,71,beach
+Fengcheng,4,62,rural
+Néa Mákri,3,95,rural
+Shireet,2,15,city
+Ea Drăng,5,62,city
+San Manuel,1,54,beach
+Pandansari,5,50,city
+Comalapa,4,77,beach
+Komyshany,5,56,rural
+Shashemenē,3,42,city
+Nishishinminato,5,35,rural
+Xinminxiang,3,68,rural
+Barranco de Loba,3,70,beach
+Laranjal Paulista,2,84,beach
+Polyarnyye Zori,4,48,city
+Zalţan,5,25,rural
+Rahayu,3,25,city
+Sumuran,3,21,rural
+Mahuta,3,45,beach
+Mudian,5,53,city
+Acatenango,1,66,rural
+Morelos,5,46,city
+Jiaokui,5,57,beach
+Na Yong,2,51,rural
+Oenaik,1,53,city
+Masaguisi,5,54,city
+La Gacilly,5,33,beach
+Pule,4,94,beach
+Hexi,5,82,rural
+Klagenfurt am Wörthersee,1,75,rural
+Cibeureum Satu,2,80,rural
+Söderköping,3,16,city
+Béziers,4,49,beach
+Svetlyy Yar,4,92,rural
+Saint-Bruno,3,54,city
+Lüjiabao,4,63,city
+Vespasiano,3,27,rural
+Mobaye,5,48,rural
+Yalukou,5,43,beach
+Przybyszówka,1,72,rural
+Ararat,5,18,city
+Nazaré da Mata,3,21,rural
+Sumbuya,3,43,rural
+Dopang,5,26,city
+Nangela,4,19,beach
+Krajan Winong,1,72,city
+Gunungputri,2,30,beach
+Cambrai,3,61,city
+Nirji,1,34,rural
+Bang Pa-in,3,15,rural
+Namalenga,2,63,rural
+Kampungraja,3,65,city
+Caringin,2,57,rural
+Solomenskoye,3,26,beach
+Alexandria,1,82,rural
+Bokong Timur,2,62,rural
+Huanuni,4,21,city
+Valencia,1,52,rural
+Hongchang,5,15,beach
+Osypenko,2,51,beach
+Vällingby,2,67,city
+Lazaro Cardenas,1,70,city
+Danderyd,1,78,beach
+Bangued,3,35,beach
+Shitan,5,79,city
+Castlerea,3,74,city
+Tučepi,3,22,rural
+Aktau,1,58,beach
+Baykonyr,4,59,beach
+Melrose,4,15,beach
+Lipie,4,20,city
+Palmira,5,70,beach
+Pirg,5,53,rural
+São Félix do Xingu,2,19,beach
+Oullins,3,43,city
+Medveđa,3,61,beach
+Muraloka,3,57,rural
+Arish,3,57,city
+Krajan,5,72,city
+Staroderevyankovskaya,5,40,beach
+Liqizhuang,3,17,city
+Skópelos,2,67,beach
+Brisbane,2,79,rural
+Al ‘Āqir,2,52,city
+Lengshui,4,82,city
+Télimélé,2,66,rural
+Wenchang,1,43,rural
+Margacina,2,61,rural
+Seattle,4,17,city
+Kotadukuh,4,84,city
+Soissons,3,84,city
+Buruanga,3,22,rural
+Ampeleíes,5,41,city
+Wuyang,4,70,beach
+Duanjia,5,70,city
+Jiaojie,1,41,beach
+Geser,2,81,rural
+Indralayang,2,39,beach
+Nama,4,52,rural
+Łubnice,5,63,rural
+Damatulan,5,52,rural
+Phoenix,2,78,city
+Awarawar,3,46,beach
+Huangchuan,2,75,rural
+Xiaogang,1,63,rural
+Mocoa,5,17,beach
+Idhnā,4,70,beach
+Shuangyang,2,46,rural
+Barão de São Miguel,5,71,city
+Marsabit,2,92,city
+Fengshan,3,75,city
+Villa Paula de Sarmiento,4,78,beach
+Cube,1,88,city
+Challas,1,17,rural
+Novozavedennoye,3,46,beach
+Angren,3,25,beach
+Nagcarlan,1,85,beach
+El Refugio,1,66,city
+Wahang Dua,3,80,beach
+Strasbourg,5,63,beach
+Krzyżanów,4,94,beach
+Ibusuki,5,82,city
+Camabatela,2,93,rural
+Shicang,2,58,rural
+Borås,3,49,beach
+El Cantón,2,73,beach
+Suyang,4,47,rural
+Choloma,1,45,rural
+Xingpinglu,5,47,city
+Raciąż,2,67,beach
+Maao,5,34,beach
+Czernice Borowe,2,60,city
+Kribi,5,41,beach
+Lubao,2,35,city
+La Carlota,5,21,beach
+Paris 15,4,62,rural
+Juan Adrián,4,50,city
+Ruma,2,25,rural
+Eskilstuna,4,51,city
+Prienai,4,43,beach
+Sitabamba,1,91,city
+Pardubice,1,65,rural
+Ryazanskaya,5,54,beach
+Jhingergācha,1,52,rural
+Kalino,5,71,city
+Quintas,5,84,rural
+Suba,3,26,rural
+Agra,1,72,city
+Girardot,4,46,rural
+Penghu,5,19,rural
+Tundagan,3,66,beach
+Starodub,5,35,beach
+Majia,3,25,beach
+Nadezhda,3,49,beach
+Tambakan,1,57,beach
+Ndago,5,82,beach
+Lile,2,28,beach
+Asahikawa,3,16,city
+Huilong,4,31,rural
+Qukës-Skënderbe,3,35,rural
+Gaza,3,52,beach
+Katyr-Yurt,2,30,beach
+Jiefang,4,94,beach
+Cibitung,1,27,rural
+Komyshany,3,71,city
+Las Vegas,3,63,city
+Wiwilí,3,18,beach
+Pruszcz,4,51,beach
+La Palma,4,65,rural
+Alençon,5,44,city
+Obonoma,2,76,beach
+Xiping,1,61,rural
+Älvdalen,3,76,city
+Dumbéa,5,17,city
+Smolyaninovo,1,64,rural
+Duki,3,66,beach
+Turan,5,20,beach
+Koror Town,1,23,rural
+Itaquyry,5,42,city
+Matsudo,1,95,beach
+Lubenec,2,26,city
+Pasadena,2,41,beach
+El Guapinol,3,39,beach
+Xiangfu,5,27,city
+Zuocun,5,46,city
+Kromy,4,69,city
+Binonga,2,77,city
+Tianzhen,5,48,city
+Nyuksenitsa,1,49,city
+Khok Charoen,5,33,rural
+Nazca,2,36,rural
+Kazanlŭk,5,39,city
