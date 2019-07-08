@@ -1,0 +1,501 @@
+id,city,rating,average_temp,type
+1,Kotaagung,3,90,city
+2,Leigao,2,37,city
+3,Shanga,4,72,beach
+4,Gardēz,2,55,rural
+5,Piritiba,3,98,rural
+6,Esch-sur-Alzette,5,94,beach
+7,Fushëkuqe,2,73,city
+8,Bacacay,1,43,beach
+9,Tasböget,2,53,city
+10,Paço,4,35,city
+11,Dazhou,3,42,city
+12,Łukowa,5,57,rural
+13,Yetang,3,19,city
+14,Penhascoso,4,81,city
+15,Guinoaliuan,3,24,city
+16,Yaurisque,2,53,rural
+17,Vovchans’k,3,20,city
+18,Hodkovice nad Mohelkou,1,83,city
+19,Niort,2,22,beach
+20,Margara,5,70,beach
+21,Celorico de Basto,1,58,beach
+22,Sukawening,1,23,beach
+23,Luxi,3,37,beach
+24,Saint-Sauveur,4,77,rural
+25,Belišće,2,24,beach
+26,Oulmes,1,48,rural
+27,Veracruz,3,42,city
+28,Chiantla,1,61,rural
+29,Aguilares,1,23,city
+30,Jaguaribe,4,41,city
+31,Al Bawīţī,4,64,beach
+32,Itororó,3,74,beach
+33,Szczaniec,4,59,beach
+34,Vatutine,2,21,beach
+35,Cernay,3,26,rural
+36,Merapit,2,72,beach
+37,Praingkareha,4,20,rural
+38,Nasavrky,2,36,rural
+39,Haylaastay,5,91,city
+40,Göteborg,1,34,city
+41,Palama,1,93,city
+42,Zhongxiang,4,25,beach
+43,Kademangan,1,34,city
+44,Banyutengah,3,97,rural
+45,Maji,1,95,rural
+46,Ekpoma,1,43,beach
+47,Lypnyazhka,4,57,rural
+48,Dobri Dol,2,62,city
+49,Trafaria,5,55,city
+50,Gunungbatu,4,36,rural
+51,Awilega,3,99,city
+52,Beitou,5,68,city
+53,Al ‘Ashshah,4,87,city
+54,Ha,2,89,rural
+55,Grabów,1,32,city
+56,Malax,4,22,rural
+57,La Loma,4,98,city
+58,Bielice,2,88,city
+59,Chakou,3,79,beach
+60,Tacoma,1,39,city
+61,Sopla,5,19,city
+62,Waiklibang,1,62,rural
+63,San Miguel,4,61,rural
+64,Si Khoraphum,5,26,city
+65,Qingnianlu,3,69,rural
+66,Santo Niño,2,83,rural
+67,Neglasari,1,37,city
+68,Kotauneng,5,27,rural
+69,Rimba Sekampung,4,18,beach
+70,Orzesze,2,62,rural
+71,Camiri,3,51,rural
+72,Fujinomiya,1,71,city
+73,Xirikxiy,5,78,beach
+74,São Tomé,4,60,beach
+75,Kwidzyn,1,22,city
+76,Shiye,1,21,city
+77,Empangeni,2,55,rural
+78,Mykonos,1,76,beach
+79,Akureyri,4,36,city
+80,Zárkos,3,53,city
+81,Sīrīs,5,93,beach
+82,Senador Canedo,5,35,beach
+83,Kashirskoye,4,43,beach
+84,Kourou,4,65,beach
+85,Avlónas,3,24,beach
+86,Americana,1,33,city
+87,Enköping,4,65,rural
+88,Anshan,3,86,beach
+89,Daliciasao,4,19,rural
+90,Lautaro,4,83,city
+91,Yudong,5,42,beach
+92,Wangdain,2,83,rural
+93,Maxiao,1,88,city
+94,Liozon,1,55,city
+95,Verkhovyna,3,23,rural
+96,Teutônia,4,79,beach
+97,Tapiramutá,3,38,beach
+98,Yŏnan-ŭp,1,39,rural
+99,Coihaique,1,51,city
+100,Heqian,1,20,city
+101,Zamoskvorech’ye,1,76,city
+102,Tysmenychany,5,84,beach
+103,Tlatah,1,82,beach
+104,Banjar Tengah,1,44,rural
+105,Gia Ray,5,48,city
+106,Muqui,5,20,beach
+107,Cheremshan,4,40,beach
+108,Lungmar,3,39,rural
+109,Malita,4,89,rural
+110,Caicara,1,69,beach
+111,Mensalong,1,55,beach
+112,Guanqian,3,26,beach
+113,Chambishi,3,45,beach
+114,Placer,2,36,city
+115,Talibura,1,61,beach
+116,New York City,3,35,rural
+117,El Coco,4,85,beach
+118,Ambovombe,3,91,city
+119,Kitamilo,2,76,beach
+120,Quintã,4,58,beach
+121,Dūst Moḩammad Khān,1,37,beach
+122,Zelenchukskaya,3,93,rural
+123,Virovitica,3,20,rural
+124,Songhae,2,67,rural
+125,Dingzigu,1,82,rural
+126,Al Badārī,2,55,city
+127,Shekou,1,99,beach
+128,Benito Juarez,3,91,beach
+129,Sérifos,3,35,rural
+130,Sangkulirang,3,28,city
+131,Huadian,3,21,city
+132,Yacheng,1,43,beach
+133,Raman,1,43,rural
+134,Tulsa,1,40,beach
+135,San Miguel,4,78,city
+136,Ronggo,2,55,rural
+137,Jincheng,3,75,beach
+138,Saint-Quentin-en-Yvelines,1,83,beach
+139,Tomarovka,5,27,beach
+140,Žleby,1,60,rural
+141,Jugezhuang,1,51,rural
+142,Lidingö,1,26,rural
+143,Ždánice,1,94,beach
+144,Huskvarna,2,67,beach
+145,Cisantri,5,70,beach
+146,Blois,1,67,beach
+147,Cipicung,2,58,beach
+148,Saronída,1,22,rural
+149,Badu,3,62,rural
+150,Haozhai,5,42,beach
+151,Gushan,5,23,rural
+152,Malinaw,4,32,beach
+153,Johor Bahru,3,85,rural
+154,Kälviä,1,53,beach
+155,Hedian,4,90,rural
+156,Vylkove,2,19,beach
+157,Pho Thong,5,30,city
+158,Kąty Wrocławskie,1,48,rural
+159,Gambarjati,2,81,beach
+160,Nador,3,65,beach
+161,Peer,1,81,rural
+162,Birmingham,1,67,beach
+163,Skurup,5,63,rural
+164,Shuangjie,2,27,city
+165,Sewon,3,97,rural
+166,Tanabe,1,49,rural
+167,Diamantina,1,18,rural
+168,Rushanzhai,3,28,beach
+169,Pasirbatang,3,98,city
+170,San Felipe,3,85,city
+171,Clichy,4,71,city
+172,Port-Vila,4,82,city
+173,Fray Bentos,2,68,beach
+174,Zemio,1,51,city
+175,Waru Selatan,2,73,beach
+176,Tokmok,3,73,city
+177,Marco,1,67,beach
+178,Río Sereno,3,80,beach
+179,Masis,2,85,rural
+180,Terawas,2,44,city
+181,Zipárion,4,53,city
+182,Tall Rif‘at,3,56,beach
+183,Yangiqo‘rg‘on,2,68,rural
+184,Karakol,4,29,beach
+185,Gaspar,4,64,beach
+186,Antsirabe,2,49,rural
+187,Okhotsk,3,89,city
+188,Pechersk,1,27,rural
+189,Göteborg,2,35,rural
+190,Kabar Utara,5,68,city
+191,Constanza,1,35,rural
+192,El Paso,4,57,city
+193,Yushan,4,18,city
+194,Port Antonio,2,54,beach
+195,Chenxiang,1,89,rural
+196,Mekarsari,2,23,beach
+197,Zykovo,2,53,city
+198,Dalai,5,53,beach
+199,Douentza,2,80,city
+200,Dazuo,1,81,city
+201,Gempolan Wetan,4,68,city
+202,Maishi,5,61,rural
+203,Maharagama,3,67,city
+204,Izyum,1,89,city
+205,Dali,5,22,beach
+206,Kidangbang,1,41,rural
+207,Dazaifu,4,37,beach
+208,Tubungan,1,92,beach
+209,Zharrëz,2,44,city
+210,Xiaozhai,2,97,city
+211,Shucheng Chengguanzhen,3,44,rural
+212,Degeberga,5,63,city
+213,Aourir,3,60,beach
+214,Mozi,3,89,beach
+215,Shuangqiaoping,2,84,city
+216,Yazman,3,68,rural
+217,Tanahedang,2,71,city
+218,Campoalegre,2,68,beach
+219,Nova Praha,3,85,rural
+220,Jönköping,1,64,beach
+221,Makurazaki,5,40,rural
+222,Paty do Alferes,5,45,city
+223,Villanova,3,69,city
+224,Hartford,2,33,beach
+225,Mercedes,3,91,beach
+226,Gunungsari,4,98,city
+227,Tabasalu,1,19,city
+228,Ibshawāy,5,62,city
+229,Hushan,5,97,beach
+230,Kota Kinabalu,4,85,beach
+231,Victoria,4,31,rural
+232,Hongmiao,5,68,city
+233,Crespo,1,90,city
+234,Serdobsk,2,67,beach
+235,Mardīān,4,53,rural
+236,Woloara,3,65,rural
+237,Kalmunai,1,55,city
+238,Fengxizhai,2,99,beach
+239,Samashki,3,59,rural
+240,Kurchaloy,3,23,city
+241,Ma'an,2,39,rural
+242,Prinza,4,85,rural
+243,Phetchaburi,5,53,beach
+244,Fuzhiping,3,65,rural
+245,Pirava,3,37,city
+246,Kalloní,1,23,rural
+247,Awjilah,5,51,city
+248,Debre Mark’os,2,56,city
+249,Perlez,5,85,city
+250,Astorga,1,53,rural
+251,Mölndal,1,39,rural
+252,Cipesing,4,62,beach
+253,Zielonki,3,80,city
+254,Potoci,5,68,rural
+255,Huntington,5,58,rural
+256,Jishui,2,65,rural
+257,Lębork,4,79,beach
+258,Ochla,2,62,city
+259,Mombok,1,82,beach
+260,Ilihan,5,49,beach
+261,Shāhīn Dezh,2,24,beach
+262,Gunem,1,45,beach
+263,Ishqoshim,4,44,rural
+264,Mórrope,3,68,rural
+265,Luoqiao,2,18,city
+266,Suva Reka,5,42,beach
+267,Bagé,4,39,beach
+268,Askersund,5,46,city
+269,Limonade,2,56,rural
+270,Macaé,4,92,city
+271,Reshetnikovo,1,87,rural
+272,Šmarje pri Jelšah,5,41,rural
+273,Liaonan,2,45,city
+274,Jayawangi,3,99,beach
+275,San Juan Ixcoy,5,66,rural
+276,Cervantes,1,58,city
+277,Mobile,1,32,city
+278,Manukau City,5,98,city
+279,Lorut,4,87,rural
+280,Cimara,5,66,rural
+281,Victoria Falls,3,65,city
+282,Ete,5,47,rural
+283,Chelles,4,77,beach
+284,Shalinskoye,3,69,beach
+285,Naebugis,3,44,city
+286,Liucheng,3,52,city
+287,Timpas,5,19,beach
+288,Umbuldamar,2,78,city
+289,Tamboril,2,29,beach
+290,Lleida,4,54,city
+291,Oyo,1,64,beach
+292,Pantai Ceuremen,5,37,city
+293,Gaoping,4,90,beach
+294,Taoyuan,2,30,beach
+295,Ganhe,4,19,city
+296,Falun,1,71,city
+297,Novo Horizonte,3,27,rural
+298,Ridderkerk,3,98,city
+299,Varaždin,2,38,city
+300,Korsakovo,2,77,city
+301,Cerquilho,3,51,city
+302,Chōfugaoka,1,97,city
+303,Falun,3,52,beach
+304,Piteå,3,53,city
+305,Bujaków,2,49,rural
+306,Zürich,2,60,city
+307,Amirabad,1,43,rural
+308,Vendychany,3,22,rural
+309,Arţās,4,22,beach
+310,Sāqayn,2,44,city
+311,Losino-Petrovskiy,5,52,rural
+312,Huanshan,4,78,city
+313,Estrada,5,39,beach
+314,Starychi,4,68,beach
+315,Dongtucheng,4,18,city
+316,San Antonio,5,55,city
+317,Baitashan,2,45,beach
+318,Nkwerre,1,80,city
+319,Cambuí,1,63,city
+320,Perdões,2,93,city
+321,Muḩradah,3,90,city
+322,Yanghong,5,73,city
+323,Abū Zabad,4,94,beach
+324,Čakovec,5,32,city
+325,Pho Si Suwan,2,55,beach
+326,Jungutbatu Kaja Dua,4,36,rural
+327,Moanemani,2,63,city
+328,Sukoanyar,5,82,city
+329,Rostov,3,41,beach
+330,Malalag,2,91,beach
+331,Buga,1,73,city
+332,San Antonio,1,62,beach
+333,Bukor,1,78,city
+334,Birinci Aşıqlı,1,22,rural
+335,Dajt,4,93,city
+336,Laveiras,5,62,rural
+337,Changfeng,2,86,city
+338,Osiek nad Notecią,2,62,city
+339,Voronkov,4,42,beach
+340,Amaraji,2,97,rural
+341,Severomorsk,1,22,city
+342,Guoduwan,1,90,city
+343,Melong,4,41,beach
+344,Krajan,4,32,rural
+345,Petani,5,91,beach
+346,Tumpukrenteng,2,51,beach
+347,Los Frentones,4,50,city
+348,Kropachëvo,4,71,beach
+349,Pavlivka,4,78,beach
+350,Jurak Lao’,2,25,beach
+351,Josefův Důl,4,41,rural
+352,Kozakai-chō,1,22,rural
+353,Dalududalu,3,96,rural
+354,Bibinje,5,54,beach
+355,Dolod,5,20,beach
+356,Sidrolândia,3,52,beach
+357,Vélo,4,62,rural
+358,Ankou,1,18,beach
+359,Wellington,4,47,rural
+360,Dugu,5,93,rural
+361,Palmares,5,20,rural
+362,Notranje Gorice,4,63,city
+363,Văn Điển,4,24,city
+364,Emmaboda,3,56,city
+365,Idalolong,1,41,city
+366,Oranjestad,3,18,rural
+367,Sterling,1,48,rural
+368,Jiru,1,36,beach
+369,Huangtan,3,49,city
+370,Penhold,4,30,beach
+371,Chalaco,3,38,rural
+372,Örebro,1,70,beach
+373,Xaysetha,5,38,rural
+374,Shixi,1,36,beach
+375,Sanxixiang,4,76,rural
+376,Petrovskiy,1,84,rural
+377,Ghouazi,3,95,rural
+378,Sacramento,1,48,rural
+379,Koch'ang,1,91,city
+380,Jakobstad,5,98,beach
+381,Amirabad,1,19,rural
+382,Caxias do Sul,5,56,city
+383,Hualian,1,76,beach
+384,Litvínov,1,41,beach
+385,Mengjia,5,48,city
+386,Pelem,2,37,rural
+387,Baiyin,2,45,city
+388,Gyamco,5,95,beach
+389,Huangwan,5,67,city
+390,Havtsal,2,90,city
+391,Esuk Oron,4,44,city
+392,Hodoš,1,39,city
+393,Ban Phai,4,64,rural
+394,Lecong,2,75,city
+395,Batarasa,2,42,rural
+396,Warburton,1,69,city
+397,Tzaneen,5,32,beach
+398,Dapawan,1,66,beach
+399,Saint-Ouen,3,31,beach
+400,Benito Juarez,4,49,rural
+401,Isanlu Itedoijowa,1,45,beach
+402,Kalamáta,5,67,rural
+403,Potet,1,22,city
+404,Gampola,5,97,beach
+405,Boshkengash,2,42,city
+406,Khlong Yai,3,93,rural
+407,Magdug,2,20,beach
+408,Alavus,2,26,rural
+409,Vostryakovo,3,83,beach
+410,São Roque,4,19,rural
+411,Xuhang,3,81,beach
+412,Playas,5,39,beach
+413,Sonder,2,70,rural
+414,Ban Nong Wua So,5,28,city
+415,Casimiro de Abreu,1,88,beach
+416,São Martinho do Campo,2,84,city
+417,Ganxi,2,89,city
+418,Wangcun,1,57,beach
+419,Guanxi,2,27,beach
+420,Toulon,3,50,city
+421,Blumenau,3,81,city
+422,Vagonoremont,3,95,city
+423,Cabarroguis,1,37,beach
+424,Klampis,5,93,city
+425,Pulosari,1,38,beach
+426,Akhfennir,5,71,beach
+427,Landskrona,4,66,rural
+428,Levallois-Perret,5,35,city
+429,Golomunta,3,84,beach
+430,Claremont,2,64,beach
+431,Caijiazha,4,95,city
+432,Ḩabīl al Jabr,3,46,rural
+433,Marseille,5,75,beach
+434,Yulao,4,68,beach
+435,Nanshui,2,94,beach
+436,Coronel Suárez,4,53,city
+437,København,1,49,city
+438,Bang Kho Laem,4,63,beach
+439,Joliet,5,30,beach
+440,Šimanovci,1,44,rural
+441,Tigbaw,3,68,beach
+442,Idrinskoye,1,95,city
+443,Qādirpur Rān,1,89,beach
+444,Sindangrasa,1,90,beach
+445,Lingmen,3,81,beach
+446,Nadezhda,3,42,rural
+447,Tungguwaneng,5,56,beach
+448,Ilhabela,4,58,beach
+449,Paccha,5,88,beach
+450,Gerdu,4,68,beach
+451,Ölgiy,5,28,city
+452,Chiba,4,87,rural
+453,Krajan Sidodadi,5,78,city
+454,Datartua,1,39,rural
+455,Sinarwangi,5,21,rural
+456,Lembongan Kawan,5,98,city
+457,Babana,5,21,city
+458,Qingyang,4,82,city
+459,Vila Chã,4,71,rural
+460,Tallahassee,4,54,rural
+461,Abuochiche,4,99,beach
+462,Hallstahammar,4,35,beach
+463,Silago,3,78,city
+464,Raša,1,86,city
+465,Litian,4,47,rural
+466,Shanga,1,98,rural
+467,Wangmo,1,78,beach
+468,Morelos,4,29,beach
+469,Petroúpolis,4,64,city
+470,Xiacang,3,93,beach
+471,Texíguat,3,21,city
+472,Kolbano,3,47,rural
+473,Valencia,4,36,rural
+474,Beidajie,4,93,rural
+475,Cana Chapetón,1,50,rural
+476,Ardino,4,48,beach
+477,Dorūd,3,92,rural
+478,Cuiabá,3,92,beach
+479,San Francisco,2,34,rural
+480,Xinning,4,99,rural
+481,Dobrošte,3,55,beach
+482,Asino,3,57,beach
+483,Bacnor East,1,94,rural
+484,Leiguan,3,18,rural
+485,President Roxas,1,87,beach
+486,Chenzhou,2,29,city
+487,Pueblo Nuevo,4,57,city
+488,Great Neck,4,73,rural
+489,Aelande,2,93,city
+490,Lazaro Cardenas,5,77,rural
+491,Norman Wells,5,22,beach
+492,Curvelo,4,48,beach
+493,San Jacinto,4,76,rural
+494,Trudovoye,5,97,city
+495,Ciwidara,1,48,city
+496,Skole,3,35,city
+497,Xin’an,4,27,rural
+498,Shelopugino,5,63,beach
+499,Nzérékoré,5,79,rural
+500,Farīmān,4,22,beach
