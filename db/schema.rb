@@ -10,13 +10,13 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 3) do
+ActiveRecord::Schema.define(version: 4) do
 
   create_table "destinations", force: :cascade do |t|
     t.string  "city"
     t.integer "rating"
     t.integer "average_temp"
-    t.string  "type"
+    t.string  "terrain"
   end
 
   create_table "flights", force: :cascade do |t|
