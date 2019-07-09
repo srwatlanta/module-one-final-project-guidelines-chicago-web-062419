@@ -59,9 +59,3 @@ input
         "I'm sorry please select one of the menu options using a number!"
     end
 
-<<<<<<< HEAD
-=======
-
-puts "HELLO WORLD"
-
->>>>>>> 4148e83c9629810a87619eafcd4f5e597bc75bcb
