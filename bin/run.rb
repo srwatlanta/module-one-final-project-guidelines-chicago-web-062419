@@ -7,7 +7,7 @@ greeting
 main_menu
 input
     if input == 1
-        booking_menu
+        book_flight_menu
         input
         case input
         when 1
