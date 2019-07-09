@@ -41,8 +41,8 @@ end
 def flight_history_menu
     history_of_flights_menu = <<-HISTORY_OF_FLIGHTS_MENU
         1. My Flights & Destinations 
-        2. my preferred terrain 
-        3. back to main menu
+        2. Terrains You've Visited
+        3. Back To Main Menu
     HISTORY_OF_FLIGHTS_MENU
 end 
 puts history_of_flights_menu

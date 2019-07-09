@@ -6,3 +6,4 @@ require_relative '../lib/app/models/flight'
 
 
 puts "HELLO WORLD"
+
