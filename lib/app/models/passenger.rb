@@ -25,7 +25,7 @@ class Passenger < ActiveRecord::Base
         flight_array.each_with_index do |flight, i|
             flight_list << "#{i+1}. #{flight}"
         end
-        flight_list.join(" ")
+        puts flight_list.join(" ")
     end
 
 end

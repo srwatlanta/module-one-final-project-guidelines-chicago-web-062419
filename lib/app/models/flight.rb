@@ -24,7 +24,7 @@ class Flight < ActiveRecord::Base
     city_array.each_with_index do |city, i|
         city_array_sorted << "#{i + 1}. #{city}"
     end
-    city_array_sorted.join(" ")
+    puts city_array_sorted.join(" ")
  end 
 
 
