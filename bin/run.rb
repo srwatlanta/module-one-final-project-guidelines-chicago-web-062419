@@ -57,7 +57,3 @@ menu_choice = input
     else error
     end
 
-# p Flight.most_visited
-
-
-p Destination.most_popular_terrain
