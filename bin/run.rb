@@ -18,42 +18,42 @@ menu_choice = input
             user.flight_confirmation
             main_menu
         elsif input == 2
-            destination_menu
-        else input == 3
+            destination_info_menu
+        elsif input == 3
             main_menu
+        else error
         end
-    # elsif input == 2
-    #     enter_passenger_id
-    #     user = find_user
-    #     flight_history_menu
-    #     input
-    #     case input
-    #     when 1
-    #         user.my_flights
-    #         flight_history_menu
-    #     when 2
+    elsif menu_choice.to_i == 2
+        user_id = sign_in
+        flight_history_menu
+        user = find_user(user_id)
+        history_choice = input
+        if history_choice == 1
+            user.my_flights
+            flight_history_menu
+        elsif history_choice == 2
     #         user.my_terrain_count
-    #         flight_history_menu
-    #     when 3 
-    #         main_menu
-    #     end
-    # elsif input == 3
-    #     destination_info_menu
-    #     input
-    #     case input
-    #     when 1
-    #         Destination.most_popular
-    #         destination_menu
-    #     when 2
-    #         Destination.highest_rated
-    #         destination_menu
-    #     when 3
-    #         Destination.best_terrain
-    #         destination_menu
-    #     when 4
-    #         main_menu
-    #     end
-    # else
-    #     "I'm sorry please select one of the menu options using a number!"
+            flight_history_menu
+        elsif history_choice == 3
+            main_menu
+        else error
+        end
+    elsif menu_choice == 3
+        destination_info_menu
+        destination_choice = input
+        if destination_choice == 1
+           Destination.most_popular
+           destination_menu
+        elsif destination_choice == 2
+            Destination.highest_rated
+            destination_menu 
+        elsif destination_choice ==3
+            Destination.best_terrain
+            destination_menu
+        elsif destination_choice == 4
+            main_menu
+        else error
+        end
+    else error
     end
 

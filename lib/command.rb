@@ -63,6 +63,15 @@ def pick_destination
 end
 
 def sign_in
-    puts "please sign in by entering your user id number"
-    gets.chomp.to_i
+    puts "please sign in by entering your User ID number"
+    x = gets.chomp.to_i
+    if x < 1 || x > 500
+        puts "Please enter valid User ID"
+    else
+        x
+    end
+end
+
+def error
+    puts "please select a valid option"
 end
