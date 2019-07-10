@@ -28,4 +28,31 @@ class Passenger < ActiveRecord::Base
         puts flight_list.join(" ")
     end
 
+    def my_terrains
+        terrain_array = []
+        self.flights.each do |flight|
+            destination = Destination.find(flight.destination_id)
+            terrain_array << destination.terrain
+        end
+        terrain_array
+     end
+     
+     def terrain_count
+        array = self.my_terrains
+        counts = Hash.new(0)
+        array.each do |terrain|
+            counts[terrain] +=1
+        end
+        counts
+     end
+     
+     def terrain_to_string
+        array = []
+        hash = terrain_count
+        hash.each do |k,v|
+            array << "#{k}: #{v}"
+        end
+        array.join(", ")
+     end
+
 end

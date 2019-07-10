@@ -47,7 +47,7 @@ def menu_2
     when 1
         user.my_flights
     when 2
-        # user.my_terrain_count
+        user.terrain_to_string
     when 3
         menu_main
     else 
