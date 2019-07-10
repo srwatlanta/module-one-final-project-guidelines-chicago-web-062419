@@ -42,13 +42,13 @@ menu_choice = input
         destination_info_menu
         destination_choice = input
         if destination_choice == 1
-           Destination.most_popular
+           Flight.most_visited
            destination_menu
         elsif destination_choice == 2
             Destination.highest_rated
             destination_menu 
         elsif destination_choice ==3
-            Destination.best_terrain
+            Destination.average_terrain_rating
             destination_menu
         elsif destination_choice == 4
             main_menu
