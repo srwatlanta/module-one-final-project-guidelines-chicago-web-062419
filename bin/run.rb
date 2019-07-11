@@ -6,3 +6,8 @@ require_relative '../lib/command.rb'
 
 
 welcome
+
+
+def help 
+    puts "Can we help you with anything else?"
+end 
