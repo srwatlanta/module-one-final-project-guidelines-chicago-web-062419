@@ -26,8 +26,8 @@ def menu_1
   case book_menu_input
   when "Pick a Destination"
     user_id = sign_in
-    destination_id = pick_destination
     user = find_user(user_id)
+    destination_id = pick_destination
     user.create_flight(destination_id)
     user.flight_confirmation
     more_help
@@ -54,6 +54,12 @@ def menu_2
     flight_history_banner
     user.terrain_to_string
     more_help
+  when "Delete My Flight History"
+    user.delete_flight_history
+    flight_history_banner
+    puts "Your flight history has been deleted."
+    sleep (2)
+    more_help
   when "Back to Main Menu"
     menu_main
   when "Exit"
@@ -67,12 +73,12 @@ def menu_3
   when "Most Popular Destinations"
     destination_banner
     Flight.most_visited
-    sleep(1)
+    sleep(2)
     book_flight_from_most_visited_list
   when "Highest Rated Destinations"
     destination_banner
     Destination.highest_rated
-    sleep(1)
+    sleep(2)
     book_flight_from_highest_rated_list
   when "Star Rating by City Type"
     destination_banner
@@ -109,7 +115,7 @@ end
 
 def flight_history_menu
   flight_history_banner
-  prompt.select("Please select a category you would like to explore.", ["My Flights & Destinations", "My Favorite City Types", "Back to Main Menu", "Exit"])
+  prompt.select("Please select a category you would like to explore.", ["My Flights & Destinations", "My Favorite City Types", "Delete My Flight History", "Back to Main Menu", "Exit"])
 end
 
 def destination_info_menu
@@ -136,6 +142,10 @@ def sign_in
   x = gets.chomp.to_i
   if x < 1 || x > 500
     puts "Please enter valid User ID"
+    sleep(2)
+    puts `clear`
+    puts ascii.asciify("FlightHub")
+    sign_in
   else
     x
   end

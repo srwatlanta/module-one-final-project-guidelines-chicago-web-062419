@@ -32,6 +32,12 @@ class Passenger < ActiveRecord::Base
     end
   end
 
+  def delete_flight_history
+    self.flights.each do |flight|
+      flight.destroy
+    end
+  end
+
   def my_terrains
     terrain_array = []
     self.flights.each do |flight|
